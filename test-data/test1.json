@@ -1,0 +1,18 @@
+[
+	{
+		"type": "mongodb",
+		"dbName": "test1",
+		"url": "mongodb://localhost:27017/",
+		"collectionNames": [ "first", "second", "third"]
+	}
+	,{
+		"type": "mongodb",
+		"dbName": "test2",
+		"url": "mongodb://localhost:27017/",
+		"collectionNames": [ "first", "second", "third"],
+		"name": "test-2"
+	}
+
+]
+
+
