@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha",
-	"testDebug": "node_modules/mocha/bin/mocha --inspect-brk"
+    "testDebug": "node_modules/mocha/bin/mocha --inspect-brk"
   },
   "repository": {
     "type": "git",
