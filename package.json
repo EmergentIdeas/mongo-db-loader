@@ -1,6 +1,6 @@
 {
   "name": "mongo-db-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loads Mongo instances for webhandle based on env variables",
   "main": "index.js",
   "scripts": {
